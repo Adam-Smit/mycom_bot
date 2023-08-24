@@ -1,0 +1,11 @@
+{
+    "window_pos": {
+        "x": -1553,
+        "y": 40,
+        "w": 996,
+        "h": 770
+    },
+    "language_id": 160,
+    "program_report_period": 72,
+    "show_capture_mode": false
+}

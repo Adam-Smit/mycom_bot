@@ -1,0 +1,70 @@
+{
+"tasks": [
+		{
+            "gold_ads": {}
+        },
+        {
+            "cw_start": {}
+        },
+        {
+            "shop_daily_chest": {}
+        },
+        {
+            "shop_ads_chest": {}
+        },
+        {
+            "apple_ads": {}
+        },
+        {
+            "chat_request": {}
+        },
+        {
+            "take_gifts": {}
+        },
+        {
+            "send_gifts": {}
+        },
+        {
+            "quest_ads": {}
+        },
+        {
+            "cw": {}
+        },
+        {
+            "invasion": {}
+        },
+        {
+            "enemy": {}
+        },
+        {
+            "arena_resources": {}
+        },
+		{
+            "gem_resources": {}
+        },
+		{
+            "portal_resources": {}
+        },
+		{
+            "lighthouse_resources": {}
+        },
+        {
+            "arena_ads": {}
+        },
+		{
+            "gem_ads": {}
+        },
+		{
+            "portal_ads": {}
+        },
+		{
+            "lighthouse_ads": {}
+        },
+        {
+            "arena": {}
+        },
+        {
+            "nothing": {}
+        }
+    ]
+}

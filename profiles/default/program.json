@@ -1,0 +1,86 @@
+{
+    "tasks": [
+        {
+            "gem": {
+                "finished_pause": 0,
+                "gem_squad_ads": true,
+                "lock_unavailable_launch": true,
+                "success_launch_max_day": 0,
+                "success_launch_max_zone": 6,
+                "success_pause": 0,
+                "task_enabe": true
+            }
+        },
+        {
+            "lighthouse": {
+                "battle_defeat_ads": true,
+                "finished_pause": 0,
+                "ignore_few_hp": true,
+                "ignore_few_spell": true,
+                "ignore_few_squad": true,
+                "lighthouse_power_scale_max": 110,
+                "lock_unavailable_launch": false,
+                "success_launch_max_day": 0,
+                "success_launch_max_zone": 6,
+                "success_pause": 0,
+                "task_enabe": false
+            }
+        },
+        {
+            "arena": {
+                "arena_buy_apple": false,
+                "arena_buy_ticket": false,
+                "arena_check_mail": true,
+                "arena_mode": 1,
+                "arena_power_scale_max": 200,
+                "arena_power_scale_min": 150,
+                "check_quests_after_success": false,
+                "choice_squad_mode": 0,
+                "finished_pause": 0,
+                "success_launch_max_day": 0,
+                "success_launch_max_zone": 0,
+                "success_pause": 0,
+                "task_enabe": false
+            }
+        }
+    ],
+    "core": {
+        "ads_close_timeout": 20000,
+        "ads_press_esc_pause": 2000,
+        "ads_watch_timeout": 40000,
+        "another_device_timeout": 5,
+        "arena_find_timeout": 600000,
+        "arena_loop_timeout": 120000,
+        "arena_open_opponent_timeout": 2000,
+        "arena_start_phase_pause": 3000,
+        "battle_few_hp_pause": 2000,
+        "battle_timeout": 180000,
+        "blacklist_hours": 72,
+        "cw_check_timeout": 2000,
+        "cw_place_timeout": 2000,
+        "emulator_start_pause": 90000,
+        "emulator_start_timeout": 5000,
+        "emulator_stop_timeout": 5000,
+        "enemy_find_timeout": 2000,
+        "enemy_next_pause": 1000,
+        "friends_scroll_pause": 2000,
+        "friends_send_pause": 2000,
+        "friends_send_timeout": 2000,
+        "invasion_check_timeout": 2000,
+        "load_page_timeout": 20000,
+        "mail_take_pause": 1000,
+        "main_pause": 2000,
+        "open_page_timeout": 4000,
+        "quests_open_record_pause": 2000,
+        "quests_take_reward_pause": 2000,
+        "recovery_loop_timeout": 30000,
+        "recovery_main_pause": 2000,
+        "recovery_open_game_timeout": 10000,
+        "recovery_press_close_pause": 2000,
+        "recovery_press_esc_pause": 2000,
+        "request_resources_timeleft": 240,
+        "return_apple_ads": true,
+        "squad_mode_pause": 1000,
+        "watchdog_timeout": 15000
+    }
+}
