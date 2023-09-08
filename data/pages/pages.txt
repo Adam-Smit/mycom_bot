@@ -22,6 +22,7 @@ invasion
 invasion_reward
 warning_spell-1
 warning_spell-2
+warning_spell-3
 warning_squad-1
 warning_squad-gem
 warning_health-1
@@ -63,6 +64,7 @@ daily_chest-1
 daily_chest-2
 lighthouse
 lighthouse_store
+lighthouse_over
 shop_gold
 portal
 portal_store
@@ -72,7 +74,8 @@ gem_over-1
 gem_over-2
 gem_over-3
 gem_store
-gem_chest
+gem_chest-1
+gem_chest-2
 journeys
 squad-journeys
 squad-gem

@@ -1,22 +1,5 @@
 {
-    "locked_tasks": [
-        {
-            "lighthouse": 1692788682
-        }
-    ],
+    "locked_tasks": [],
     "resource_requests": [],
-    "success_tasks": [
-        {
-            "gem": 1692784023
-        },
-        {
-            "lighthouse": 1692788657
-        },
-        {
-            "gem": 1692788703
-        },
-        {
-            "gem": 1692789044
-        }
-    ]
+    "success_tasks": []
 }
