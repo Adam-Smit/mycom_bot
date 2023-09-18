@@ -67,7 +67,6 @@ lighthouse_store
 lighthouse_over
 shop_gold
 portal
-portal_store
 portal_closed
 gem
 gem_over-1

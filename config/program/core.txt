@@ -16,18 +16,18 @@
 	"battle_timeout": 	 { "value":180000, "type": "spin", "title": "Battle timeout (ms)", "color": "0xA87E25", "min": 0},	
 	"squad_mode_pause":  { "value":1000, "type": "spin", "title": "Pause after choosing a squad (ms)", "color": "0x316B0B", "min": 0, "indent": 10 },					
 
-	"ads_watch_timeout": { "value":90000, "type": "spin", "title": "Ads watching timeout (ms)", "color": "0x95B515", "min": 0 },
-	"ads_close_timeout": { "value":20000, "type": "spin", "title": "Ads closing timeout (ms)", "color": "0x95B515", "min": 0 }, 			
+	"ads_watch_timeout": { "value":30000, "type": "spin", "title": "Ads watching timeout (ms)", "color": "0x95B515", "min": 0 },
+	"ads_close_timeout": { "value":60000, "type": "spin", "title": "Ads closing timeout (ms)", "color": "0x95B515", "min": 0 },
 	"ads_press_esc_pause": { "value":2000, "type": "spin", "title": "Pause after pressing esc in an ads (ms)", "color": "0x95B515", "min": 0, "indent": 10 }, 			
 	
 	"arena_loop_timeout": { "value":120000, "type": "spin", "title": "Arena loop timeout (ms)", "color": "0x316B0B", "min": 0 },			
 	"arena_find_timeout": { "value":600000, "type": "spin", "title": "Arena find timeout (ms)", "color": "0x316B0B", "min": 0 },			
 	"arena_start_phase_pause": { "value":3000, "type": "spin", "title": "Pause after start of arena phase (ms)", "color": "0x316B0B", "min": 0 }, 		
-	"arena_open_opponent_timeout": { "value":2000, "type": "spin", "title": "Arena opponent opening timeout (ms)", "color": "0x316B0B", "min": 0, "indent": 10 }, 					 
+	"arena_open_opponent_timeout": { "value":3000, "type": "spin", "title": "Arena opponent opening timeout (ms)", "color": "0x316B0B", "min": 0, "indent": 10 },
 	
-	"friends_send_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a friend to send a gift (ms)", "color": "0x319E95", "min": 0 },			
-	"friends_send_pause": { "value":2000, "type": "spin", "title": "Pause after sending gift to friend (ms)", "color": "0x319E95", "min": 0 },			
-	"friends_scroll_pause": { "value":2000, "type": "spin", "title": "Pause after scrolling friends (ms)", "color": "0x319E95", "min": 0, "indent": 10 },			
+	"friends_send_timeout": { "value":3000, "type": "spin", "title": "Timeout to find a friend to send a gift (ms)", "color": "0x319E95", "min": 0 },
+	"friends_send_pause": { "value":3000, "type": "spin", "title": "Pause after sending gift to friend (ms)", "color": "0x319E95", "min": 0 },
+	"friends_scroll_pause": { "value":3000, "type": "spin", "title": "Pause after scrolling friends (ms)", "color": "0x319E95", "min": 0, "indent": 10 },
 	
 	"cw_place_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a free field at a clan war point (ms)", "color": "0x216799", "min": 0 },			
 	"cw_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of clan war (ms)", "color": "0x216799", "min": 0, "indent": 10 },		
