@@ -593,7 +593,7 @@ msgid "Block the task if there are enough apples"
 msgstr "Блокировать задачу, если яблок достаточно"
 
 msgid "Lighthouse"
-msgstr "Маяк"
+msgstr "Маяк 123"
 
 msgid "Lighthouse ads"
 msgstr "Реклама в маяке"
@@ -622,6 +622,12 @@ msgstr "Реклама в путешествиях"
 msgid "Journeys"
 msgstr "Путешествия"
 
+msgid "Tower"
+msgstr "Башня титанов"
+
+msgid "Colosseum"
+msgstr "Колизей"
+
 msgid "Pause before opening a next enemy (ms)"
 msgstr "Пауза перед открытием следующего врага (миллисекунды)"
 
@@ -630,6 +636,9 @@ msgstr "Количество проверяемых врагов"
 
 msgid "Block the task if the bonus is not active"
 msgstr "Блокировать задачу, если бонус не активен"
+
+msgid "Watch advertisement"
+msgstr "Смотреть рекламу"
 
 msgid "Watch ads if squad is dead"
 msgstr "Смотреть рекламу, если отряд мертв"

@@ -14,6 +14,7 @@ opponent-invasion
 opponent-gate
 opponent-lighthouse
 opponent-gem
+opponent-tower
 battle-1
 battle-2
 battle_end
@@ -78,4 +79,12 @@ gem_chest-2
 journeys
 squad-journeys
 squad-gem
+squad-tower
+settings-1
+settings-2
+settings-3
 claim
+tower
+tower_auto
+tower_enter
+tower_store
